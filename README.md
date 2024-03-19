@@ -3,7 +3,8 @@
 
 ### Overview
 
-**Developer:** [Shariat Jahan Shanu] ([101285602])
+Name: Shariat Jahan Shanu
+ID: 101285602
 
 This project was developed as part of the requirements for COMP3005 Assignment 3 Question 1 - Winter 2024. It's a Python3 application designed to manage student records in a PostgreSQL database.
 
